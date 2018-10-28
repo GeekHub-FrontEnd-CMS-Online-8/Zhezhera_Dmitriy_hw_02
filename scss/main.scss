@@ -1,0 +1,53 @@
+.hw2{
+  font-family: "Times New Roman";
+
+  &__content{
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  &__title{
+    text-align: center;
+    font-size: 20px;
+  }
+  &__authors{
+    text-align: center;
+    font-size: 14px;
+    font-style: italic;
+  }
+  &__company{
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+  }
+  &__h2{
+    font-size: 18px;
+  }
+  &__h3{
+    font-size: 16px;
+  }
+  &__text{
+    font-size: 11px;
+    &--bold{
+      font-weight: bold;
+    }
+    &--italic{
+      font-style: italic;
+    }
+    &--center{
+      text-align: center;
+    }
+    &--underline{
+      text-decoration: underline;
+    }
+    &--right{
+      text-align: right;
+    }
+    &--float-left{
+      float: left;
+      margin-right: 10px;
+    };
+    &--clearFix{
+      clear: both;
+    }
+  }
+}

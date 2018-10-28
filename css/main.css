@@ -1,0 +1,39 @@
+.hw2 {
+  font-family: "Times New Roman"; }
+  .hw2__content {
+    max-width: 1200px;
+    margin: 0 auto; }
+  .hw2__title {
+    text-align: center;
+    font-size: 20px; }
+  .hw2__authors {
+    text-align: center;
+    font-size: 14px;
+    font-style: italic; }
+  .hw2__company {
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center; }
+  .hw2__h2 {
+    font-size: 18px; }
+  .hw2__h3 {
+    font-size: 16px; }
+  .hw2__text {
+    font-size: 11px; }
+    .hw2__text--bold {
+      font-weight: bold; }
+    .hw2__text--italic {
+      font-style: italic; }
+    .hw2__text--center {
+      text-align: center; }
+    .hw2__text--underline {
+      text-decoration: underline; }
+    .hw2__text--right {
+      text-align: right; }
+    .hw2__text--float-left {
+      float: left;
+      margin-right: 10px; }
+    .hw2__text--clearFix {
+      clear: both; }
+
+/*# sourceMappingURL=main.css.map */
