@@ -1,0 +1,69 @@
+Solowey [3:54 PM]
+Lesson 2. Git / HTML
+
+Unfortunately there's no video for this lesson.
+
+Organisational moments:
+- not to help each other with homeworks copy-paste
+- super skill: гуглить, гуглить и гуглить :slightly_smiling_face:
+- learn English.
+- git: format naming [surname_name_hw_n]
+
+Discussed topics:
+- GIT basic / unresolved issues
+- HTML, W3C validator.
+- editors (Visual studio, atom, sublime etc.)
+- Semantics
+- tags inside "head” tag
+- HTML tags (body tags), their differences (semantic)
+- HTML attributes
+- HTML5 tags
+- Chrome dev tools
+
+Theory reading (to repeat/finalize):
+*Git:*
+https://try.github.io/
+https://learngitbranching.js.org/
+https://www.youtube.com/playlist…
+https://githowto.com/
+
+*IDE & text editors:*
+https://www.jetbrains.com/phpstorm/
+https://code.visualstudio.com/download
+https://www.sublimetext.com/3
+https://atom.io/
+
+*HTML 5:*
+https://www.w3.org/TR/html52/
+https://developer.mozilla.org/en-US/docs/Web/HTML
+https://developer.mozilla.org/en-US/docs/Learn/HTML
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto
+
+*HTML Validator:*
+https://validator.w3.org/
+
+*DevTools:*
+https://developers.google.com/web/tools/chrome-devtools/
+
+*Semantics:*
+http://accessibility.psu.edu/boldface#strong
+http://webgyry.info/semantics-html
+http://www.xiper.net/learn/tegofenshuj/about-semantic
+http://habrahabr.ru/post/19518/
+http://ruseller.com/lessons.php?rub=1&id=1208
+http://htmlbook.ru/blog/semantika-v-html5
+http://pepelsbey.net/2011/07/sense-coding/
+http://pepelsbey.net/2008/04/semantic-coding-1/
+http://pepelsbey.net/2008/04/semantic-coding-2/
+For English readers:
+https://webstyleguide.com/wsg3/5-site-structure/2-semantic-markup.html?fbclid=IwAR2_m5ngg2LWjXtleNUHfPt5mchxd9xJ1YQj5cQZig1_R4Xap96NbIjf7qo
+https://www.lifewire.com/why-use-semantic-html-3468271
+
+Practical homework (till Thu 6am):
+- create HTML page based on attached mockup:
+https://www.dropbox.com/s/fz6buz0v33kuqoa/home_work_2.docx…
+- the idea is to use the most appropriate tags so it's semantically correct.
+- again, use GIT to submit it. (edited)
+Message Input
+
+Message #random
